@@ -1,0 +1,6 @@
+   ASND
+   NU
+   SGI
+   ZTS
+   GOOGL
+   ISRG
