@@ -113,21 +113,32 @@ def overvaagning(repo):
                sha, f"kurser {nu}")
 
 
-def wiki_liste(url, ticker_kolonne):
+def wiki_liste(url, ticker_navne):
     html = requests.get(url, headers=UA, timeout=30).text
     for tabel in pd.read_html(StringIO(html)):
-        if ticker_kolonne in tabel.columns:
-            sektor = "GICS Sector" if "GICS Sector" in tabel.columns else None
-            navn = "Security" if "Security" in tabel.columns else "Company"
-            return {str(r[ticker_kolonne]).replace(".", "-"):
-                    {"navn": r[navn], "sektor": r[sektor] if sektor else ""}
-                    for _, r in tabel.iterrows()}
-    raise RuntimeError(f"Ingen tabel med kolonnen {ticker_kolonne} på {url}")
+        if isinstance(tabel.columns, pd.MultiIndex):  # flad ud hvis flere header-rækker
+            tabel.columns = [" ".join(str(x) for x in c if "Unnamed" not in str(x)).strip()
+                             for c in tabel.columns]
+        tk = next((k for k in ticker_navne if k in tabel.columns), None)
+        if tk is None or len(tabel) < 50:  # spring små tabeller over
+            continue
+        sektor = next((k for k in ("GICS Sector", "ICB Industry", "Sector")
+                       if k in tabel.columns), None)
+        navn = next((k for k in ("Security", "Company", "Name") if k in tabel.columns), tk)
+        return {str(r[tk]).strip().replace(".", "-"):
+                {"navn": r[navn], "sektor": r[sektor] if sektor else ""}
+                for _, r in tabel.iterrows()}
+    raise RuntimeError(f"Ingen passende tabel ({ticker_navne}) på {url}")
 
 
 def univers(repo):
-    liste = wiki_liste("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies", "Symbol")
-    liste.update(wiki_liste("https://en.wikipedia.org/wiki/Nasdaq-100", "Ticker"))
+    liste = wiki_liste("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+                       ("Symbol", "Ticker"))
+    try:
+        liste.update(wiki_liste("https://en.wikipedia.org/wiki/Nasdaq-100",
+                                ("Ticker", "Symbol")))
+    except Exception as e:  # Nasdaq-100 er et tillæg, S&P 500 er nok til at køre videre
+        print(f"Advarsel: Nasdaq-100 sprunget over ({e})", file=sys.stderr)
     syms = sorted(liste)
 
     rækker = []
