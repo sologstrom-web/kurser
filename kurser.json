@@ -1,73 +1,73 @@
 {
- "opdateret_utc": "2026-11-12T16:00:11Z",
+ "opdateret_utc": "2026-11-12T16:15:08Z",
  "kurser": {
   "ASND": {
-   "kurs": 263.78,
+   "kurs": 265.84,
    "forrige_luk": 264.0,
-   "i_dag_pct": -0.08,
+   "i_dag_pct": 0.7,
    "52u_hoej": 282.15,
    "52u_lav": 188.07
   },
   "NU": {
-   "kurs": 12.12,
+   "kurs": 12.22,
    "forrige_luk": 12.27,
-   "i_dag_pct": -1.14,
+   "i_dag_pct": -0.41,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 61.46,
+   "kurs": 61.59,
    "forrige_luk": 62.49,
-   "i_dag_pct": -1.65,
+   "i_dag_pct": -1.44,
    "52u_hoej": 98.56,
    "52u_lav": 60.08
   },
   "ZTS": {
-   "kurs": 82.92,
+   "kurs": 82.9,
    "forrige_luk": 82.69,
-   "i_dag_pct": 0.28,
+   "i_dag_pct": 0.26,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 297.23,
+   "kurs": 299.24,
    "forrige_luk": 293.5,
-   "i_dag_pct": 1.27,
+   "i_dag_pct": 1.96,
    "52u_hoej": 408.61,
    "52u_lav": 270.7
   },
   "ISRG": {
-   "kurs": 442.15,
+   "kurs": 442.09,
    "forrige_luk": 445.27,
-   "i_dag_pct": -0.7,
+   "i_dag_pct": -0.72,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 149.04,
+   "kurs": 149.35,
    "forrige_luk": 150.03,
-   "i_dag_pct": -0.66,
+   "i_dag_pct": -0.45,
    "52u_hoej": 354.88,
    "52u_lav": 126.4
   },
   "^GSPC": {
-   "kurs": 7630.18,
+   "kurs": 7641.58,
    "forrige_luk": 7617.84,
-   "i_dag_pct": 0.16,
+   "i_dag_pct": 0.31,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 25496.69,
+   "kurs": 25550.75,
    "forrige_luk": 25464.57,
-   "i_dag_pct": 0.13,
+   "i_dag_pct": 0.34,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
-   "kurs": 6.75,
+   "kurs": 6.76,
    "forrige_luk": 6.74,
-   "i_dag_pct": 0.26,
+   "i_dag_pct": 0.27,
    "52u_hoej": 6.74,
    "52u_lav": 6.21
   }
