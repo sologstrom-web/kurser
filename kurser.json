@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-12T09:00:08Z",
+ "opdateret_utc": "2026-11-12T09:15:07Z",
  "kurser": {
   "ASND": {
    "kurs": 259.28,
@@ -10,8 +10,8 @@
   },
   "NU": {
    "kurs": 12.32,
-   "forrige_luk": 12.08,
-   "i_dag_pct": 1.99,
+   "forrige_luk": 12.19,
+   "i_dag_pct": 1.11,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
@@ -24,22 +24,22 @@
   },
   "ZTS": {
    "kurs": 82.57,
-   "forrige_luk": 83.19,
-   "i_dag_pct": -0.75,
+   "forrige_luk": 82.69,
+   "i_dag_pct": -0.15,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
    "kurs": 293.45,
-   "forrige_luk": 288.88,
-   "i_dag_pct": 1.58,
+   "forrige_luk": 294.35,
+   "i_dag_pct": -0.31,
    "52u_hoej": 408.61,
    "52u_lav": 270.7
   },
   "ISRG": {
    "kurs": 449.53,
-   "forrige_luk": 451.07,
-   "i_dag_pct": -0.34,
+   "forrige_luk": 449.3,
+   "i_dag_pct": 0.05,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
@@ -67,7 +67,7 @@
   "DKK=X": {
    "kurs": 6.74,
    "forrige_luk": 6.74,
-   "i_dag_pct": 0.03,
+   "i_dag_pct": 0.04,
    "52u_hoej": 6.74,
    "52u_lav": 6.21
   }
