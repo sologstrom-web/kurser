@@ -5,3 +5,4 @@
    GOOGL
    ISRG
 PODD
+NOVO-B.CO
