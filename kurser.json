@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-12T14:00:13Z",
+ "opdateret_utc": "2026-11-12T14:15:08Z",
  "kurser": {
   "ASND": {
    "kurs": 259.28,
@@ -17,8 +17,8 @@
   },
   "SGI": {
    "kurs": 62.49,
-   "forrige_luk": 62.78,
-   "i_dag_pct": -0.46,
+   "forrige_luk": 62.49,
+   "i_dag_pct": 0.0,
    "52u_hoej": 98.56,
    "52u_lav": 60.08
   },
@@ -67,7 +67,7 @@
   "DKK=X": {
    "kurs": 6.74,
    "forrige_luk": 6.74,
-   "i_dag_pct": 0.05,
+   "i_dag_pct": 0.02,
    "52u_hoej": 6.74,
    "52u_lav": 6.21
   }
