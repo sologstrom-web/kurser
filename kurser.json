@@ -1,80 +1,80 @@
 {
- "opdateret_utc": "2026-11-13T15:45:08Z",
+ "opdateret_utc": "2026-11-13T16:00:12Z",
  "kurser": {
   "ASND": {
-   "kurs": 273.67,
+   "kurs": 275.03,
    "forrige_luk": 268.0,
-   "i_dag_pct": 2.12,
+   "i_dag_pct": 2.62,
    "52u_hoej": 282.15,
    "52u_lav": 188.08
   },
   "NU": {
-   "kurs": 12.86,
+   "kurs": 12.93,
    "forrige_luk": 12.32,
-   "i_dag_pct": 4.38,
+   "i_dag_pct": 4.95,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 61.02,
+   "kurs": 60.65,
    "forrige_luk": 60.62,
-   "i_dag_pct": 0.66,
+   "i_dag_pct": 0.06,
    "52u_hoej": 98.56,
    "52u_lav": 60.08
   },
   "ZTS": {
-   "kurs": 82.62,
+   "kurs": 82.57,
    "forrige_luk": 82.6,
-   "i_dag_pct": 0.03,
+   "i_dag_pct": -0.04,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 294.75,
+   "kurs": 294.78,
    "forrige_luk": 300.96,
-   "i_dag_pct": -2.06,
+   "i_dag_pct": -2.05,
    "52u_hoej": 408.61,
    "52u_lav": 270.7
   },
   "ISRG": {
-   "kurs": 445.9,
+   "kurs": 445.75,
    "forrige_luk": 440.94,
-   "i_dag_pct": 1.13,
+   "i_dag_pct": 1.09,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 149.54,
+   "kurs": 149.91,
    "forrige_luk": 149.41,
-   "i_dag_pct": 0.09,
+   "i_dag_pct": 0.33,
    "52u_hoej": 354.88,
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 277.55,
+   "kurs": 278.45,
    "forrige_luk": 275.75,
-   "i_dag_pct": 0.65,
+   "i_dag_pct": 0.98,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
   "^GSPC": {
-   "kurs": 7523.78,
+   "kurs": 7525.41,
    "forrige_luk": 7591.86,
-   "i_dag_pct": -0.9,
+   "i_dag_pct": -0.88,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 24950.19,
+   "kurs": 24972.44,
    "forrige_luk": 25363.75,
-   "i_dag_pct": -1.63,
+   "i_dag_pct": -1.54,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
    "kurs": 6.78,
    "forrige_luk": 6.76,
-   "i_dag_pct": 0.17,
+   "i_dag_pct": 0.2,
    "52u_hoej": 6.76,
    "52u_lav": 6.21
   }
