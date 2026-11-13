@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-13T14:00:08Z",
+ "opdateret_utc": "2026-11-13T14:15:08Z",
  "kurser": {
   "ASND": {
    "kurs": 267.07,
@@ -51,9 +51,9 @@
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 277.25,
+   "kurs": 276.35,
    "forrige_luk": 275.75,
-   "i_dag_pct": 0.54,
+   "i_dag_pct": 0.22,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
