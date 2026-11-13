@@ -1,80 +1,80 @@
 {
- "opdateret_utc": "2026-11-13T15:00:15Z",
+ "opdateret_utc": "2026-11-13T15:15:11Z",
  "kurser": {
   "ASND": {
-   "kurs": 268.57,
+   "kurs": 269.51,
    "forrige_luk": 268.0,
-   "i_dag_pct": 0.21,
+   "i_dag_pct": 0.56,
    "52u_hoej": 282.15,
    "52u_lav": 188.08
   },
   "NU": {
-   "kurs": 12.64,
+   "kurs": 12.69,
    "forrige_luk": 12.32,
-   "i_dag_pct": 2.56,
+   "i_dag_pct": 3.04,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 61.93,
+   "kurs": 61.06,
    "forrige_luk": 60.62,
-   "i_dag_pct": 2.16,
+   "i_dag_pct": 0.72,
    "52u_hoej": 98.56,
    "52u_lav": 60.08
   },
   "ZTS": {
-   "kurs": 83.04,
+   "kurs": 82.95,
    "forrige_luk": 82.6,
-   "i_dag_pct": 0.53,
+   "i_dag_pct": 0.42,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 300.67,
+   "kurs": 296.29,
    "forrige_luk": 300.96,
-   "i_dag_pct": -0.09,
+   "i_dag_pct": -1.55,
    "52u_hoej": 408.61,
    "52u_lav": 270.7
   },
   "ISRG": {
-   "kurs": 447.49,
+   "kurs": 446.34,
    "forrige_luk": 440.94,
-   "i_dag_pct": 1.49,
+   "i_dag_pct": 1.22,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 149.19,
+   "kurs": 149.33,
    "forrige_luk": 149.41,
-   "i_dag_pct": -0.15,
+   "i_dag_pct": -0.05,
    "52u_hoej": 354.88,
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 277.3,
+   "kurs": 276.9,
    "forrige_luk": 275.75,
-   "i_dag_pct": 0.56,
+   "i_dag_pct": 0.42,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
   "^GSPC": {
-   "kurs": 7557.65,
+   "kurs": 7510.47,
    "forrige_luk": 7591.86,
-   "i_dag_pct": -0.45,
+   "i_dag_pct": -1.07,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 25162.15,
+   "kurs": 24955.49,
    "forrige_luk": 25363.75,
-   "i_dag_pct": -0.79,
+   "i_dag_pct": -1.61,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
    "kurs": 6.76,
    "forrige_luk": 6.76,
-   "i_dag_pct": -0.06,
+   "i_dag_pct": -0.03,
    "52u_hoej": 6.76,
    "52u_lav": 6.21
   }
