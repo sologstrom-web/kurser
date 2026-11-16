@@ -1,80 +1,80 @@
 {
- "opdateret_utc": "2026-11-16T15:30:11Z",
+ "opdateret_utc": "2026-11-16T15:45:10Z",
  "kurser": {
   "ASND": {
-   "kurs": 275.33,
+   "kurs": 275.66,
    "forrige_luk": 275.36,
-   "i_dag_pct": -0.01,
+   "i_dag_pct": 0.11,
    "52u_hoej": 282.15,
    "52u_lav": 188.08
   },
   "NU": {
-   "kurs": 12.88,
+   "kurs": 12.86,
    "forrige_luk": 13.07,
-   "i_dag_pct": -1.49,
+   "i_dag_pct": -1.6,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 60.72,
+   "kurs": 60.93,
    "forrige_luk": 60.76,
-   "i_dag_pct": -0.06,
+   "i_dag_pct": 0.28,
    "52u_hoej": 98.56,
    "52u_lav": 60.08
   },
   "ZTS": {
-   "kurs": 84.0,
+   "kurs": 83.77,
    "forrige_luk": 83.87,
-   "i_dag_pct": 0.16,
+   "i_dag_pct": -0.12,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 286.09,
+   "kurs": 287.91,
    "forrige_luk": 294.08,
-   "i_dag_pct": -2.72,
+   "i_dag_pct": -2.1,
    "52u_hoej": 408.61,
    "52u_lav": 272.11
   },
   "ISRG": {
-   "kurs": 440.09,
+   "kurs": 439.68,
    "forrige_luk": 441.0,
-   "i_dag_pct": -0.21,
+   "i_dag_pct": -0.3,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 151.45,
+   "kurs": 150.95,
    "forrige_luk": 152.48,
-   "i_dag_pct": -0.68,
+   "i_dag_pct": -1.0,
    "52u_hoej": 354.88,
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 284.95,
+   "kurs": 285.05,
    "forrige_luk": 278.45,
-   "i_dag_pct": 2.33,
+   "i_dag_pct": 2.37,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
   "^GSPC": {
-   "kurs": 7459.51,
+   "kurs": 7465.94,
    "forrige_luk": 7560.87,
-   "i_dag_pct": -1.34,
+   "i_dag_pct": -1.26,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 24602.76,
+   "kurs": 24656.81,
    "forrige_luk": 25130.26,
-   "i_dag_pct": -2.1,
+   "i_dag_pct": -1.88,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
    "kurs": 6.79,
    "forrige_luk": 6.78,
-   "i_dag_pct": 0.17,
+   "i_dag_pct": 0.16,
    "52u_hoej": 6.78,
    "52u_lav": 6.21
   }
