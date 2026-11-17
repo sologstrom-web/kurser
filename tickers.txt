@@ -6,3 +6,4 @@
    ISRG
 PODD
 NOVO-B.CO
+NVDA
