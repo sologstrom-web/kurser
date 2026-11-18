@@ -1,12 +1,12 @@
 {
- "opdateret_utc": "2026-11-18T22:15:08Z",
+ "opdateret_utc": "2026-11-18T22:30:09Z",
  "kurser": {
   "ASND": {
    "kurs": 270.33,
    "forrige_luk": 271.19,
    "i_dag_pct": -0.32,
-   "52u_hoej": 272.96,
-   "52u_lav": 267.64
+   "52u_hoej": 282.15,
+   "52u_lav": 188.08
   },
   "NU": {
    "kurs": 12.08,
