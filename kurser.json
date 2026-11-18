@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-18T09:00:09Z",
+ "opdateret_utc": "2026-11-18T09:15:08Z",
  "kurser": {
   "ASND": {
    "kurs": 271.19,
@@ -10,8 +10,8 @@
   },
   "NU": {
    "kurs": 12.33,
-   "forrige_luk": 12.6,
-   "i_dag_pct": -2.14,
+   "forrige_luk": 12.52,
+   "i_dag_pct": -1.5,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
@@ -24,15 +24,15 @@
   },
   "ZTS": {
    "kurs": 83.48,
-   "forrige_luk": 84.83,
-   "i_dag_pct": -1.6,
+   "forrige_luk": 83.04,
+   "i_dag_pct": 0.52,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
    "kurs": 280.2,
-   "forrige_luk": 284.52,
-   "i_dag_pct": -1.52,
+   "forrige_luk": 283.67,
+   "i_dag_pct": -1.22,
    "52u_hoej": 408.61,
    "52u_lav": 272.11
   },
@@ -45,22 +45,22 @@
   },
   "PODD": {
    "kurs": 145.34,
-   "forrige_luk": 145.29,
-   "i_dag_pct": 0.03,
+   "forrige_luk": 144.0,
+   "i_dag_pct": 0.93,
    "52u_hoej": 354.88,
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 277.35,
+   "kurs": 277.45,
    "forrige_luk": 275.5,
-   "i_dag_pct": 0.67,
+   "i_dag_pct": 0.71,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
   "NVDA": {
    "kurs": 155.46,
-   "forrige_luk": 156.15,
-   "i_dag_pct": -0.44,
+   "forrige_luk": 162.94,
+   "i_dag_pct": -4.59,
    "52u_hoej": 243.37,
    "52u_lav": 148.8
   },
@@ -81,7 +81,7 @@
   "DKK=X": {
    "kurs": 6.82,
    "forrige_luk": 6.8,
-   "i_dag_pct": 0.29,
+   "i_dag_pct": 0.3,
    "52u_hoej": 6.81,
    "52u_lav": 6.21
   }
