@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-18T01:15:07Z",
+ "opdateret_utc": "2026-11-18T01:30:09Z",
  "kurser": {
   "ASND": {
    "kurs": 271.19,
@@ -80,8 +80,8 @@
   },
   "DKK=X": {
    "kurs": 6.8,
-   "forrige_luk": 6.79,
-   "i_dag_pct": 0.16,
+   "forrige_luk": 6.8,
+   "i_dag_pct": 0.04,
    "52u_hoej": 6.81,
    "52u_lav": 6.21
   }
