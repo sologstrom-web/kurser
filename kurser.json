@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-19T21:15:08Z",
+ "opdateret_utc": "2026-11-19T21:30:09Z",
  "kurser": {
   "ASND": {
    "kurs": 255.96,
@@ -11,21 +11,21 @@
   "NU": {
    "kurs": 11.82,
    "forrige_luk": 12.17,
-   "i_dag_pct": -2.83,
+   "i_dag_pct": -2.88,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 59.42,
+   "kurs": 59.44,
    "forrige_luk": 62.45,
-   "i_dag_pct": -4.85,
+   "i_dag_pct": -4.82,
    "52u_hoej": 98.56,
    "52u_lav": 57.78
   },
   "ZTS": {
-   "kurs": 80.8,
+   "kurs": 80.79,
    "forrige_luk": 85.2,
-   "i_dag_pct": -5.16,
+   "i_dag_pct": -5.18,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
@@ -81,7 +81,7 @@
   "DKK=X": {
    "kurs": 6.81,
    "forrige_luk": 6.81,
-   "i_dag_pct": -0.01,
+   "i_dag_pct": 0.03,
    "52u_hoej": 6.82,
    "52u_lav": 6.21
   }
