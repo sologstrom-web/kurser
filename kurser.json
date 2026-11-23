@@ -1,52 +1,52 @@
 {
- "opdateret_utc": "2026-11-23T16:45:10Z",
+ "opdateret_utc": "2026-11-23T17:00:13Z",
  "kurser": {
   "ASND": {
-   "kurs": 263.57,
+   "kurs": 264.32,
    "forrige_luk": 252.73,
-   "i_dag_pct": 4.29,
+   "i_dag_pct": 4.59,
    "52u_hoej": 282.15,
    "52u_lav": 188.08
   },
   "NU": {
-   "kurs": 11.74,
+   "kurs": 11.81,
    "forrige_luk": 11.4,
-   "i_dag_pct": 2.98,
+   "i_dag_pct": 3.6,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 60.71,
+   "kurs": 60.58,
    "forrige_luk": 57.82,
-   "i_dag_pct": 5.0,
+   "i_dag_pct": 4.77,
    "52u_hoej": 98.56,
    "52u_lav": 57.5
   },
   "ZTS": {
-   "kurs": 79.48,
+   "kurs": 79.65,
    "forrige_luk": 78.16,
-   "i_dag_pct": 1.69,
+   "i_dag_pct": 1.91,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 280.79,
+   "kurs": 282.73,
    "forrige_luk": 270.73,
-   "i_dag_pct": 3.72,
+   "i_dag_pct": 4.43,
    "52u_hoej": 408.61,
    "52u_lav": 264.22
   },
   "ISRG": {
-   "kurs": 415.09,
+   "kurs": 417.11,
    "forrige_luk": 401.0,
-   "i_dag_pct": 3.51,
+   "i_dag_pct": 4.02,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 132.3,
+   "kurs": 132.65,
    "forrige_luk": 133.1,
-   "i_dag_pct": -0.6,
+   "i_dag_pct": -0.34,
    "52u_hoej": 342.13,
    "52u_lav": 126.4
   },
@@ -58,30 +58,30 @@
    "52u_lav": 224.25
   },
   "NVDA": {
-   "kurs": 164.24,
+   "kurs": 166.54,
    "forrige_luk": 129.39,
-   "i_dag_pct": 26.93,
+   "i_dag_pct": 28.71,
    "52u_hoej": 243.37,
    "52u_lav": 124.5
   },
   "^GSPC": {
-   "kurs": 7215.11,
+   "kurs": 7253.83,
    "forrige_luk": 6918.45,
-   "i_dag_pct": 4.29,
+   "i_dag_pct": 4.85,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 24005.85,
+   "kurs": 24154.69,
    "forrige_luk": 22651.52,
-   "i_dag_pct": 5.98,
+   "i_dag_pct": 6.64,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
    "kurs": 6.86,
    "forrige_luk": 6.81,
-   "i_dag_pct": 0.7,
+   "i_dag_pct": 0.68,
    "52u_hoej": 6.82,
    "52u_lav": 6.21
   }
