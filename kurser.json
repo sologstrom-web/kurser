@@ -1,52 +1,52 @@
 {
- "opdateret_utc": "2026-11-24T17:00:11Z",
+ "opdateret_utc": "2026-11-24T17:15:08Z",
  "kurser": {
   "ASND": {
-   "kurs": 269.23,
+   "kurs": 270.47,
    "forrige_luk": 265.45,
-   "i_dag_pct": 1.42,
+   "i_dag_pct": 1.89,
    "52u_hoej": 282.15,
    "52u_lav": 188.08
   },
   "NU": {
-   "kurs": 11.88,
+   "kurs": 11.93,
    "forrige_luk": 11.85,
-   "i_dag_pct": 0.22,
+   "i_dag_pct": 0.63,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 61.03,
+   "kurs": 61.74,
    "forrige_luk": 60.58,
-   "i_dag_pct": 0.74,
+   "i_dag_pct": 1.92,
    "52u_hoej": 98.56,
    "52u_lav": 57.5
   },
   "ZTS": {
-   "kurs": 82.01,
+   "kurs": 82.32,
    "forrige_luk": 79.63,
-   "i_dag_pct": 2.98,
+   "i_dag_pct": 3.37,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 276.72,
+   "kurs": 278.65,
    "forrige_luk": 283.27,
-   "i_dag_pct": -2.31,
+   "i_dag_pct": -1.63,
    "52u_hoej": 408.61,
    "52u_lav": 264.22
   },
   "ISRG": {
-   "kurs": 431.79,
+   "kurs": 435.2,
    "forrige_luk": 416.26,
-   "i_dag_pct": 3.73,
+   "i_dag_pct": 4.55,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 138.37,
+   "kurs": 139.77,
    "forrige_luk": 133.79,
-   "i_dag_pct": 3.42,
+   "i_dag_pct": 4.47,
    "52u_hoej": 342.13,
    "52u_lav": 126.4
   },
@@ -58,30 +58,30 @@
    "52u_lav": 224.25
   },
   "NVDA": {
-   "kurs": 150.6,
+   "kurs": 153.26,
    "forrige_luk": 165.26,
-   "i_dag_pct": -8.87,
+   "i_dag_pct": -7.26,
    "52u_hoej": 243.37,
    "52u_lav": 124.5
   },
   "^GSPC": {
-   "kurs": 7155.99,
+   "kurs": 7199.37,
    "forrige_luk": 7236.85,
-   "i_dag_pct": -1.12,
+   "i_dag_pct": -0.52,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 23520.19,
+   "kurs": 23708.52,
    "forrige_luk": 24092.36,
-   "i_dag_pct": -2.37,
+   "i_dag_pct": -1.59,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
-   "kurs": 6.81,
+   "kurs": 6.82,
    "forrige_luk": 6.85,
-   "i_dag_pct": -0.54,
+   "i_dag_pct": -0.51,
    "52u_hoej": 6.87,
    "52u_lav": 6.21
   }
