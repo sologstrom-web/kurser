@@ -1,5 +1,5 @@
 {
- "opdateret_utc": "2026-11-24T11:45:08Z",
+ "opdateret_utc": "2026-11-24T12:00:10Z",
  "kurser": {
   "ASND": {
    "kurs": 265.72,
@@ -38,22 +38,22 @@
   },
   "ISRG": {
    "kurs": 416.23,
-   "forrige_luk": 401.0,
-   "i_dag_pct": 3.8,
+   "forrige_luk": 418.0,
+   "i_dag_pct": -0.42,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
    "kurs": 133.79,
-   "forrige_luk": 133.1,
-   "i_dag_pct": 0.52,
+   "forrige_luk": 133.79,
+   "i_dag_pct": -0.0,
    "52u_hoej": 342.13,
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 268.35,
+   "kurs": 268.8,
    "forrige_luk": 266.35,
-   "i_dag_pct": 0.75,
+   "i_dag_pct": 0.92,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
@@ -81,7 +81,7 @@
   "DKK=X": {
    "kurs": 6.82,
    "forrige_luk": 6.85,
-   "i_dag_pct": -0.39,
+   "i_dag_pct": -0.43,
    "52u_hoej": 6.87,
    "52u_lav": 6.21
   }
