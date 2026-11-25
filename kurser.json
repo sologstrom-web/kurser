@@ -1,87 +1,87 @@
 {
- "opdateret_utc": "2026-11-25T15:15:10Z",
+ "opdateret_utc": "2026-11-25T15:30:12Z",
  "kurser": {
   "ASND": {
-   "kurs": 269.98,
+   "kurs": 268.14,
    "forrige_luk": 274.49,
-   "i_dag_pct": -1.64,
+   "i_dag_pct": -2.32,
    "52u_hoej": 282.15,
    "52u_lav": 188.08
   },
   "NU": {
-   "kurs": 11.73,
+   "kurs": 11.7,
    "forrige_luk": 11.9,
-   "i_dag_pct": -1.39,
+   "i_dag_pct": -1.64,
    "52u_hoej": 18.98,
    "52u_lav": 11.2
   },
   "SGI": {
-   "kurs": 60.81,
+   "kurs": 61.04,
    "forrige_luk": 61.0,
-   "i_dag_pct": -0.3,
+   "i_dag_pct": 0.07,
    "52u_hoej": 98.56,
    "52u_lav": 57.5
   },
   "ZTS": {
-   "kurs": 82.04,
+   "kurs": 82.59,
    "forrige_luk": 81.2,
-   "i_dag_pct": 1.03,
+   "i_dag_pct": 1.71,
    "52u_hoej": 132.49,
    "52u_lav": 68.77
   },
   "GOOGL": {
-   "kurs": 267.97,
+   "kurs": 265.58,
    "forrige_luk": 279.5,
-   "i_dag_pct": -4.13,
+   "i_dag_pct": -4.98,
    "52u_hoej": 408.61,
    "52u_lav": 264.22
   },
   "ISRG": {
-   "kurs": 426.45,
+   "kurs": 421.93,
    "forrige_luk": 434.46,
-   "i_dag_pct": -1.84,
+   "i_dag_pct": -2.88,
    "52u_hoej": 603.88,
    "52u_lav": 328.57
   },
   "PODD": {
-   "kurs": 141.47,
+   "kurs": 140.45,
    "forrige_luk": 140.65,
-   "i_dag_pct": 0.58,
+   "i_dag_pct": -0.14,
    "52u_hoej": 330.83,
    "52u_lav": 126.4
   },
   "NOVO-B.CO": {
-   "kurs": 275.1,
+   "kurs": 274.05,
    "forrige_luk": 274.65,
-   "i_dag_pct": 0.16,
+   "i_dag_pct": -0.22,
    "52u_hoej": 409.95,
    "52u_lav": 224.25
   },
   "NVDA": {
-   "kurs": 144.48,
+   "kurs": 143.18,
    "forrige_luk": 152.69,
-   "i_dag_pct": -5.38,
+   "i_dag_pct": -6.23,
    "52u_hoej": 243.37,
    "52u_lav": 124.5
   },
   "^GSPC": {
-   "kurs": 7037.1,
+   "kurs": 7000.23,
    "forrige_luk": 7202.45,
-   "i_dag_pct": -2.3,
+   "i_dag_pct": -2.81,
    "52u_hoej": 7844.52,
    "52u_lav": 6316.91
   },
   "^IXIC": {
-   "kurs": 22919.99,
+   "kurs": 22761.58,
    "forrige_luk": 23735.68,
-   "i_dag_pct": -3.44,
+   "i_dag_pct": -4.1,
    "52u_hoej": 27722.75,
    "52u_lav": 20690.25
   },
   "DKK=X": {
    "kurs": 6.83,
    "forrige_luk": 6.82,
-   "i_dag_pct": 0.21,
+   "i_dag_pct": 0.2,
    "52u_hoej": 6.87,
    "52u_lav": 6.21
   }
